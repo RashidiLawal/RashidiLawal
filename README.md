@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rashidi Lawal</h1>
-<h3 align="center">Web developer from Nigeria</h3>
+<h3 align="center">Front End Developer from Nigeria</h3>
 
 ![vscode-black-formatter](https://user-images.githubusercontent.com/86020443/207038729-ff48a36a-def3-4d75-8c8f-202ad364332a.gif)
 
